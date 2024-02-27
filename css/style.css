@@ -295,3 +295,168 @@ h1{
 }
 
 
+@media (min-width: 1239px) {
+    .cards__mobile{
+        display: none;
+    }
+    .cards{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        background:  #ccc;
+    }
+    .card {
+        background: white;
+        margin: 4px;
+        border: 1px solid #ccc;
+        display: flex;
+        flex-direction: column;
+        width: 295px;
+        height: 420px;
+    }
+    .cards__card-title{
+        font-size: 21px;
+        margin-top: 20px; 
+        margin-left: 20px;  
+        margin-bottom: 10px;
+        width: 255px;
+    }
+    .cards__card-img1 {
+        height: 280px;
+        margin-left: 20px;
+        margin-right: 20px;   
+        object-fit: cover;
+    }
+    .cards__card-link{
+        color: #007185;
+        text-decoration: none;
+        margin: 20px;
+        font-size: 12px;  
+    }
+    .cards__card-img2 {
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-img3 {
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-img4 {
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-img5 {
+        height: 280px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-img6 {
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px;
+        object-fit: cover; 
+    }
+    .cards__card-img7 {
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-img7 {
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-img8 {
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-title9{
+        font-size: 12px;
+        margin-left: 30px;
+    }
+    
+    .cards__card-title10{
+        font-size: 12px;
+        margin-left: 34px; 
+    }
+    .cards__card-img10{
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px; 
+        object-fit: cover;
+    }
+    .cards__card-img11{
+        height: 305px;
+        margin-left: 20px;
+        margin-right: 20px;
+        object-fit: cover; 
+    }
+    .cards__card-container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 305px;
+    }
+    .cards__card-img12{
+        height: 108px;
+        width: 120px;
+        margin-left: 20px;
+        object-fit: cover;
+    }
+    .cards__card-title1{
+        font-size: 12px;
+        margin-left: 20px; 
+        margin-bottom: 26px;
+    }
+    .cards__card-title2{
+        font-size: 12px;
+        margin-left: 110px; 
+    }
+
+    .cards__card-title3{
+        font-size: 12px;
+        margin-left: 68px; 
+    }
+    .cards__card-title4{
+        font-size: 21px;
+        margin-left: 20px;
+        margin-top: 20px; 
+        margin-bottom: 10px;
+    }
+    
+    .cards__card-title5{
+        font-size: 12px;
+        margin-left: 46px; 
+    }
+    
+    .cards__card-title6{
+        font-size: 12px;
+        margin-left: 38px; 
+    }
+    
+    /*<!-- Quarta -->*/
+    .cards__card-title7{
+        font-size: 12px;
+        margin-left: 103px; 
+    }
+    
+    .cards__card-title8{
+        font-size: 12px;
+        margin-left: 69px; 
+    }
+}
+
+
+
